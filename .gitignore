@@ -1,0 +1,5 @@
+aux/
+*.tar
+*.zip
+*.tgz
+__pycache__/
