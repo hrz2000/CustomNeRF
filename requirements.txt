@@ -17,7 +17,7 @@ tensorboard
 tensorboardX
 
 # for grid_tcnn
-git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+# git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
 
 # for stable-diffusion
 huggingface_hub
